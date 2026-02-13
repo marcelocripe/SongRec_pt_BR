@@ -1,6 +1,11 @@
-Repositório oficial do programa "SongRec"
+Repositório oficial do programa "SongRec":
 
 https://github.com/marin-m/SongRec
+
+
+Plataforma de tradução do programa "SongRec":
+
+https://weblate.fossplant.re/projects/songrec/songrec/
 
 
 Tradução criada e revisada por marcelocripe:
